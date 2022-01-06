@@ -35,7 +35,7 @@ const Table = () => {
               {item.gdp}
               </td>
               <td>
-              {item.flag_url}
+              <a href={item.flag_url}>Click here for the flag</a>
               </td>              
             </tr>
           ))}
