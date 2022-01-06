@@ -1,0 +1,48 @@
+[
+    
+    {
+      "_id": 1,
+      "name": "Canada",
+      "currency": "Canadian dollar",
+      "population": "38.01 million (2020)",
+      "flag_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.worldatlas.com%2Fflags%2Fcanada&psig=AOvVaw3Ocy8xoz4kT9IhuHEXAi-F&ust=1641531250499000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDQ3suqnPUCFQAAAAAdAAAAABAD",
+      "gdp": "1.643 trillion USD (2020)"
+    },
+
+    {
+      "_id": 2,
+      "name": "Finland",
+      "currency": "Euro",
+      "population": "5.531 million (2020)",
+      "flag_url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fb%2Fbc%2FFlag_of_Finland.svg%2F800px-Flag_of_Finland.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFlag_of_Finland&tbnid=RKjzdDcAAtaDCM&vet=12ahUKEwikqe--q5z1AhVagGMGHRlAARQQMygAegUIARDYAQ..i&docid=uwp7c6UUlszyoM&w=800&h=489&itg=1&q=finland%20flag&ved=2ahUKEwikqe--q5z1AhVagGMGHRlAARQQMygAegUIARDYAQ",
+      "gdp": "271.2 billion USD (2020)"
+    },
+
+    {
+      "_id": 3,
+      "name": "Sri Lanka",
+      "currency": "Sri Lankan Rupees",
+      "population": "21.92 million (2020)",
+      "flag_url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.britannica.com%2F13%2F4413-004-3277D2EF%2FFlag-Sri-Lanka.jpg&imgrefurl=https%3A%2F%2Fwww.britannica.com%2Ftopic%2Fflag-of-Sri-Lanka&tbnid=KZnZp4OhAmtw9M&vet=12ahUKEwiNmaD7q5z1AhVormMGHel1APkQMygAegUIARDVAQ..i&docid=E2EwkOj6KoDgiM&w=800&h=400&itg=1&q=Sri%20lankan%20flag&ved=2ahUKEwiNmaD7q5z1AhVormMGHel1APkQMygAegUIARDVAQ",
+      "gdp": "80.71 billion USD (2020)"
+    },
+
+    {
+      "_id": 4,
+      "name": "Unite Kingdom",
+      "currency": "Pound Sterling",
+      "population": "67.22 million (2020)",
+      "flag_url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fa%2Fae%2FFlag_of_the_United_Kingdom.svg%2F2560px-Flag_of_the_United_Kingdom.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AFlag_of_the_United_Kingdom.svg&tbnid=-fsKF5U9o6zEfM&vet=12ahUKEwjor_yuqZz1AhWq_TgGHdY2DOgQMygAegUIARCrAQ..i&docid=Y3y1XzGVaDaOgM&w=2560&h=1280&q=UK%20flag%20url&ved=2ahUKEwjor_yuqZz1AhWq_TgGHdY2DOgQMygAegUIARCrAQ",
+      "gdp": "2.708 trillion USD (2020)"
+    },
+
+    {
+      "_id": 5,
+      "name": "United States",
+      "currency": "United States Dollars (USD)",
+      "population": "329.5 million (2020)",
+      "flag_url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2Fa%2Fa4%2FFlag_of_the_United_States.svg%2F1235px-Flag_of_the_United_States.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AFlag_of_the_United_States.svg&tbnid=pmB-TqlKV3UnEM&vet=12ahUKEwiJ-qLRqZz1AhXXi9gFHf9HDR8QMygAegUIARCsAQ..i&docid=uFIo2gXzoAQ0fM&w=1235&h=650&itg=1&q=US%20flag%20url&ved=2ahUKEwiJ-qLRqZz1AhXXi9gFHf9HDR8QMygAegUIARCsAQ",
+      "gdp": "20.94 trillion USD (2020)"
+    }
+    
+  ]

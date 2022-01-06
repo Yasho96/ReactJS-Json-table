@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+th,
+td {
+  background: silver;
+  padding: 10px;
+}
+
+h1 {
+  text-align: left;
+}
