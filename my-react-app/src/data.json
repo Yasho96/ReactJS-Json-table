@@ -1,16 +1,16 @@
 [
     
     {
-      "_id": 1,
+      "id": 1,
       "name": "Canada",
       "currency": "Canadian dollar",
       "population": "38.01 million (2020)",
-      "flag_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.worldatlas.com%2Fflags%2Fcanada&psig=AOvVaw3Ocy8xoz4kT9IhuHEXAi-F&ust=1641531250499000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDQ3suqnPUCFQAAAAAdAAAAABAD",
+      "flag_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fcanadian-flag&psig=AOvVaw2_i-paWc74CwWdVH4rmzbe&ust=1641794438914000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCinIj_o_UCFQAAAAAdAAAAABAD",
       "gdp": "1.643 trillion USD (2020)"
     },
 
     {
-      "_id": 2,
+      "id": 2,
       "name": "Finland",
       "currency": "Euro",
       "population": "5.531 million (2020)",
@@ -19,7 +19,7 @@
     },
 
     {
-      "_id": 3,
+      "id": 3,
       "name": "Sri Lanka",
       "currency": "Sri Lankan Rupees",
       "population": "21.92 million (2020)",
@@ -28,7 +28,7 @@
     },
 
     {
-      "_id": 4,
+      "id": 4,
       "name": "United Kingdom",
       "currency": "Pound Sterling",
       "population": "67.22 million (2020)",
@@ -37,7 +37,7 @@
     },
 
     {
-      "_id": 5,
+      "id": 5,
       "name": "United States",
       "currency": "United States Dollars (USD)",
       "population": "329.5 million (2020)",
